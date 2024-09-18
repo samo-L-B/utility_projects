@@ -14,6 +14,5 @@ def download_youtube_video(link, download_path):
 
 if __name__ == "__main__":
     video_link = input("enter the YouTube link you cocksucker: ")
-    download_directory = '/Users/Leon/Downloads/YouTube Downloads'  # Update the download directory as needed
-    
+    download_directory = '../../../Videos/YouTube Downloads'  # Update the download directory as needed
     download_youtube_video(video_link, download_directory)
