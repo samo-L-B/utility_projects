@@ -23,6 +23,9 @@ To download videos, use yt-dlp (`pacman -S yt-dlp`, `winget install yt-dlp`): `y
 
 Each folder has its own README with the details.
 
+The repo is public. Generated audio (`*.wav`) and copyrighted input texts are kept out of it, history included;
+the ones removed on 2026-11-05 are on the laptop in `~/Desktop/Media/tts-removed-from-utility_projects/`.
+
 ## Who uses what
 
 These tools also feed two other projects, which read them from this repo's location next to them
